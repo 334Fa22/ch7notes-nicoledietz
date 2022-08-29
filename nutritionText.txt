@@ -1,6 +1,6 @@
 /* Food for Thought (do not copy and paste this comment) */
 <p>Good nutrition is a lifestyle, not a diet. It starts with a new way of thinking about food. Think of your body as a vehicle that uses food for fuel. Fill your tank with the right type of fuel.</p>
-<p>Do not approach your nutrition plan as a diet plan, but rather, a lifestyle change. If you make a permanent change, you will see big results. The key to success is a daily focus on your goal.</p> 
+<p>Do not approach your nutrition plan as a diet plan, but rather, a lifestyle change. If you make a permanent change, you will see big results. The key to success is a daily focus on your goal.</p>
 <p>Portion your meals and track your calories. There are many free mobile apps available to help track your activity level and calories.</p>
 <p>Control impulsive urges to buy junk food, and instead, allow yourself to one "cheat" meal a week.</p>
 
@@ -27,5 +27,6 @@
 <li>1 tsp sea salt</li>
 <li>&frac14; tsp pepper</li>
 </ul>
+
 <h4>Instructions:</h4>
 <p>Combine all ingredients in a plastic bag and marinate for at least an hour. Preheat oven to 350 degrees. Bake chicken for 30-35 minutes or until juices run clear. Broil on high for two minutes or until brown. Serve with a fresh side salad.</p>
